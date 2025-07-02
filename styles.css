@@ -1,0 +1,38 @@
+body {
+  color: cyan;
+  background-color: black;
+  font-family: "Courier New", Courier, monospace;
+  margin: 30px;
+  padding: 20px;
+  border: 1px solid yellow;
+}
+h1 {
+  text-align: center;
+  color: cyan;
+  margin: 10px 20px 10px 20px;
+  padding: 10px;
+  border: 1px solid purple;
+}
+
+div {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid cyan;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: rgb(255, 0, 0);
+}
+ul,
+p {
+  color: greenyellow;
+}
+
+h2 {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid cyan;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+a {
+  color: white;
+}
